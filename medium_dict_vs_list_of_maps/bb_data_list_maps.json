@@ -1,0 +1,202 @@
+[
+    {
+        "id": 16619,
+        "first_name": "LaTroy",
+        "last_name": "Hawkins",
+        "teams":
+        [
+            {
+                "team": "Minnesota Twins",
+                "years":
+                [
+                    {
+                        "year": 1995,
+                        "positions":
+                        [
+                            {
+                                "position": "sp",
+                                "games": 6,
+                                "era": 8.67,
+                                "ip": "27.0"
+                            }
+                        ]
+                    },
+                    {
+                        "year": 1996,
+                        "positions":
+                        [
+                            {
+                                "position": "sp",
+                                "games": 6,
+                                "era": 7.73,
+                                "ip": "23.1"
+                            },
+                            {
+                                "position": "rp",
+                                "games": 1,
+                                "era": 15.00,
+                                "ip": "3.0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": "Colorado Rockies",
+                "years":
+                [
+                    {
+                        "year": 2007,
+                        "positions":
+                        [
+                            {
+                                "position": "rp",
+                                "games": 62,
+                                "era": 3.42,
+                                "ip": "55.1"
+                            }
+                        ]
+                    },
+                    {
+                        "year": 2014,
+                        "positions":
+                        [
+                            {
+                                "position": "rp",
+                                "games": 57,
+                                "era": 3.31,
+                                "ip": "54.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "17422",
+        "first_name": "Jeff",
+        "last_name": "Liefer",
+        "teams":
+        [
+            {
+                "team": "Chicago White Sox",
+                "years": [
+                    {
+                        "year": 1999,
+                        "positions":
+                        [
+                            {
+                                "position": "1b",
+                                "games": 14,
+                                "pa": 47,
+                                "ops": 0.484
+                            },
+                            {
+                                "position": "lf",
+                                "games": 13,
+                                "pa": 43,
+                                "ops": 0.726
+                            },
+                            {
+                                "position": "rf",
+                                "games": 2,
+                                "pa": 6,
+                                "ops": 0.333
+                            },
+                            {
+                                "position": "dh",
+                                "games": 7,
+                                "pa": 18,
+                                "ops": 0.844
+                            },
+                            {
+                                "position": "ph",
+                                "games": 9,
+                                "pa": 9,
+                                "ops": 0.556
+                            }
+                        ]
+                    },
+                    {
+                        "year": 2001,
+                        "positions":
+                        [
+                            {
+                                "position": "1b",
+                                "games": 11,
+                                "pa": 42,
+                                "ops": 1.026
+                            },
+                            {
+                                "position": "3b",
+                                "games": 14,
+                                "pa": 53,
+                                "ops": 0.674
+                            },
+                            {
+                                "position": "lf",
+                                "games": 34,
+                                "pa": 127,
+                                "ops": 0.942
+                            },
+                            {
+                                "position": "rf",
+                                "games": 4,
+                                "pa": 11,
+                                "ops": 0.873
+                            },
+                            {
+                                "position": "dh",
+                                "games": 10,
+                                "pa": 37,
+                                "ops": 0.531
+                            },
+                            {
+                                "position": "ph",
+                                "games": 10,
+                                "pa": 10,
+                                "ops": 0.300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": "Montreal Expos",
+                "years": [
+                    {
+                        "year": 2003,
+                        "positions":
+                        [
+                            {
+                                "position": "1b",
+                                "games": 21,
+                                "pa": 77,
+                                "ops": 0.550
+                            },
+                            {
+                                "position": "3b",
+                                "games": 6,
+                                "pa": 19,
+                                "ops": 0.505
+                            },
+                            {
+                                "position": "dh",
+                                "games": 2,
+                                "pa": 9,
+                                "ops": 0.472
+                            },
+                            {
+                                "position": "ph",
+                                "games": 15,
+                                "pa": 15,
+                                "ops": 0.533
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
