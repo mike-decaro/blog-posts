@@ -1,41 +1,41 @@
 [
     {
-        "id": 16619,
-        "first_name": "LaTroy",
-        "last_name": "Hawkins",
+        "id": 16959,
+        "first_name": "Greg",
+        "last_name": "Norton",
         "teams":
         [
             {
-                "team": "Minnesota Twins",
+                "team": "Chicago White Sox",
                 "years":
                 [
                     {
-                        "year": 1995,
+                        "year": 1999,
                         "positions":
                         [
                             {
-                                "position": "sp",
-                                "games": 6,
-                                "era": 8.67,
-                                "ip": "27.0"
-                            }
-                        ]
-                    },
-                    {
-                        "year": 1996,
-                        "positions":
-                        [
-                            {
-                                "position": "sp",
-                                "games": 6,
-                                "era": 7.73,
-                                "ip": "23.1"
+                                "position": "1b",
+                                "games": 14,
+                                "pa": 38,
+                                "ops": 1.074
                             },
                             {
-                                "position": "rp",
+                                "position": "3b",
+                                "games": 115,
+                                "pa": 462,
+                                "ops": 0.773
+                            },
+                            {
+                                "position": "dh",
                                 "games": 1,
-                                "era": 15.00,
-                                "ip": "3.0"
+                                "pa": 4,
+                                "ops": 0.500
+                            },
+                            {
+                                "position": "ph",
+                                "games": 6,
+                                "pa": 6,
+                                "ops": 0.000
                             }
                         ]
                     }
@@ -46,26 +46,74 @@
                 "years":
                 [
                     {
-                        "year": 2007,
+                        "year": 2001,
                         "positions":
                         [
                             {
-                                "position": "rp",
-                                "games": 62,
-                                "era": 3.42,
-                                "ip": "55.1"
+                                "position": "1b",
+                                "games": 8,
+                                "pa": 25,
+                                "ops": 1.223
+                            },
+                            {
+                                "position": "3b",
+                                "games": 23,
+                                "pa": 90,
+                                "ops": 0.644
+                            },
+                            {
+                                "position": "lf",
+                                "games": 19,
+                                "pa": 55,
+                                "ops": 1.006
+                            },
+                            {
+                                "position": "rf",
+                                "games": 1,
+                                "pa": 3,
+                                "ops": 0.667
+                            },
+                            {
+                                "position": "dh",
+                                "games": 1,
+                                "pa": 4,
+                                "ops": 0.500
+                            },
+                            {
+                                "position": "ph",
+                                "games": 69,
+                                "pa": 69,
+                                "ops": 0.843
                             }
                         ]
                     },
                     {
-                        "year": 2014,
+                        "year": 2003,
                         "positions":
                         [
                             {
-                                "position": "rp",
-                                "games": 57,
-                                "era": 3.31,
-                                "ip": "54.1"
+                                "position": "1b",
+                                "games": 6,
+                                "pa": 6,
+                                "ops": 1.900
+                            },
+                            {
+                                "position": "3b",
+                                "games": 29,
+                                "pa": 110,
+                                "ops": 0.570
+                            },
+                            {
+                                "position": "rf",
+                                "games": 2,
+                                "pa": 3,
+                                "ops": 0.333
+                            },
+                            {
+                                "position": "ph",
+                                "games": 78,
+                                "pa": 78,
+                                "ops": 0.990
                             }
                         ]
                     }
