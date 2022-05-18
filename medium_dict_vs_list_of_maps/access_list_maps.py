@@ -11,13 +11,13 @@ def populate_position_ops_list(input_list, pos):
     Given a player and a position, return a dictionary
     that includes their OPS for every team at that position
     '''
-    # Initialize an empty dictionary for the player
     output_dict = {}
     for player in input_list:
+        # Initialize an empty dictionary for the player
         player_dict = {}
         name = f"{player['first_name']} {player['last_name']}"
         for team in player['teams']:
-        # Since we calculate stats within a team, reset OPS for each new team
+            # Since we calculate stats within a team, reset OPS for each new team
             ops_sum = 0
             plate_app = 0
             for year in team['years']:
@@ -38,13 +38,13 @@ def populate_position_ops_dict(input_dict, pos):
     '''
     A docstring
     '''
-    # Initialize an empty dictionary for the player
     output_dict = {}
     for player, player_val in input_dict.items():
+        # Initialize an empty dictionary for the player
         player_dict = {}
         name = f"{player_val['first_name']} {player_val['last_name']}"
         for team, team_dict in player_val['team'].items():
-        # Since we calculate stats within a team, reset OPS for each new team
+            # Since we calculate stats within a team, reset OPS for each new team
             plate_app = 0
             ops = 0
             for year, year_dict in team_dict.items():
