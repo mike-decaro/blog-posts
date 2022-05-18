@@ -10,6 +10,30 @@
                 "years":
                 [
                     {
+                        "year": 1996,
+                        "positions":
+                        [
+                            {
+                                "position": "3b",
+                                "games": 2,
+                                "pa": 10,
+                                "ops": 0.800
+                            },
+                            {
+                                "position": "ss",
+                                "games": 5,
+                                "pa": 13,
+                                "ops": 0.762
+                            },
+                            {
+                                "position": "ph",
+                                "games": 3,
+                                "pa": 3,
+                                "ops": 0.667
+                            }
+                        ]
+                    },
+                    {
                         "year": 1999,
                         "positions":
                         [
@@ -114,6 +138,86 @@
                                 "games": 78,
                                 "pa": 78,
                                 "ops": 0.990
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17193,
+        "first_name": "Mike",
+        "last_name": "Caruso",
+        "teams":
+        [
+            {
+                "team": "Chicago White Sox",
+                "years":
+                [
+                    {
+                        "year": 1998,
+                        "positions":
+                        [
+                            {
+                                "position": "ss",
+                                "games": 130,
+                                "pa": 554,
+                                "ops": 0.724
+                            },
+                            {
+                                "position": "ph",
+                                "games": 1,
+                                "pa": 1,
+                                "ops": 0.000
+                            }
+                        ]
+                    },
+                    {
+                        "year": 1999,
+                        "positions":
+                        [
+                            {
+                                "position": "ss",
+                                "games": 130,
+                                "pa": 561,
+                                "ops": 0.573
+                            },
+                            {
+                                "position": "ph",
+                                "games": 3,
+                                "pa": 3,
+                                "ops": 1.333
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": "Kansas City Royals",
+                "years":
+                [
+                    {
+                        "year": 2002,
+                        "positions":
+                        [
+                            {
+                                "position": "2bb",
+                                "games": 4,
+                                "pa": 9,
+                                "ops": 0.222
+                            },
+                            {
+                                "position": "3b",
+                                "games": 1,
+                                "pa": 1,
+                                "ops": 0.000
+                            },
+                            {
+                                "position": "ss",
+                                "games": 5,
+                                "pa": 11,
+                                "ops": 0.282
                             }
                         ]
                     }
