@@ -22,7 +22,7 @@ def populate_position_ops_list(input_list, pos):
             plate_app = 0
             for year in team['years']:
                 for position in year['positions']:
-                    # Only modify the OPS given the position matches out input
+                    # Only modify the OPS given the position matches our input
                     if position['position'] == pos:
                         ops_sum = ops_sum + position['ops']*position['pa']
                         plate_app = plate_app + position['pa']
@@ -36,24 +36,31 @@ def populate_position_ops_list(input_list, pos):
 
 def populate_position_ops_dict(input_dict, pos):
     '''
-    A docstring
+    Given a player and a position, return a dictionary
+    that includes their OPS for every team at that position
     '''
     output_dict = {}
-    for player, player_val in input_dict.items():
+    for player, player_dict in input_dict.items():
         # Initialize an empty dictionary for the player
-        player_dict = {}
-        name = f"{player_val['first_name']} {player_val['last_name']}"
-        for team, team_dict in player_val['team'].items():
+        player_output_dict = {}
+        name = f"{player_dict['first_name']} {player_dict['last_name']}"
+        print(name)
+        for team, team_dict in player_dict['team'].items():
             # Since we calculate stats within a team, reset OPS for each new team
             plate_app = 0
-            ops = 0
+            ops_sum = 0
             for year, year_dict in team_dict.items():
-                # Only modify the OPS given the position matches out input
-                plate_app = plate_app + year_dict.get(pos).get('pa')
-                ops = ops + (year_dict.get(pos).get('ops') * year_dict.get(pos).get('pa'))
-            ops_total = ops / plate_app
-            player_dict[team] = ops_total
-        output_dict[name] = player_dict
+                if year_dict.get(pos):
+                # Only modify the OPS given the position matches our input
+                    plate_app = plate_app + year_dict.get(pos).get('pa')
+                    print(plate_app)
+                    ops_sum = ops_sum + (year_dict.get(pos).get('ops') * year_dict.get(pos).get('pa'))
+            # Only create an entry in the player dict if there were
+            # PAs for the team at the position in question
+            if plate_app > 0:
+                ops_total = ops_sum / plate_app
+                player_output_dict[team] = ops_total
+        output_dict[name] = player_output_dict
     return output_dict
 
 if __name__ == '__main__':
