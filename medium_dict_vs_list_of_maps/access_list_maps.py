@@ -24,13 +24,12 @@ def populate_position_ops_list(input_list, pos):
                 for position in year['positions']:
                     # Only modify the OPS given the position matches our input
                     if position['position'] == pos:
-                        ops_sum = ops_sum + position['ops']*position['pa']
+                        ops_sum = ops_sum + position['ops'] * position['pa']
                         plate_app = plate_app + position['pa']
             # Only create an entry in the player dict if there were
             # PAs for the team at the position in question
             if plate_app > 0:
-                ops_total = ops_sum / plate_app
-                player_dict[team['team']] = ops_total
+                player_dict[team['team']] = ops_sum / plate_app
         output_dict[name] = player_dict
     return output_dict
 
@@ -44,7 +43,6 @@ def populate_position_ops_dict(input_dict, pos):
         # Initialize an empty dictionary for the player
         player_output_dict = {}
         name = f"{player_dict['first_name']} {player_dict['last_name']}"
-        print(name)
         for team, team_dict in player_dict['team'].items():
             # Since we calculate stats within a team, reset OPS for each new team
             plate_app = 0
@@ -53,13 +51,11 @@ def populate_position_ops_dict(input_dict, pos):
                 if year_dict.get(pos):
                 # Only modify the OPS given the position matches our input
                     plate_app = plate_app + year_dict.get(pos).get('pa')
-                    print(plate_app)
                     ops_sum = ops_sum + (year_dict.get(pos).get('ops') * year_dict.get(pos).get('pa'))
             # Only create an entry in the player dict if there were
             # PAs for the team at the position in question
             if plate_app > 0:
-                ops_total = ops_sum / plate_app
-                player_output_dict[team] = ops_total
+                player_output_dict[team] = ops_sum / plate_app
         output_dict[name] = player_output_dict
     return output_dict
 

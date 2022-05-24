@@ -1,103 +1,82 @@
 {
-    "16959":
-    {
+    "16959": {
         "first_name": "Greg",
         "last_name": "Norton",
-        "team":
-        {
-            "Chicago White Sox":
-            {
-                "1999":
-                {
-                    "1b":
-                    {
+        "team": {
+            "Chicago White Sox": {
+                "1999": {
+                    "1b": {
                         "games": 14,
                         "pa": 38,
                         "ops": 1.074
                     },
-                    "3b":
-                    {
+                    "3b": {
                         "games": 115,
                         "pa": 462,
                         "ops": 0.773
                     },
-                    "dh":
-                    {
+                    "dh": {
                         "games": 1,
                         "pa": 4,
                         "ops": 0.500
                     },
-                    "ph":
-                    {
+                    "ph": {
                         "games": 6,
                         "pa": 6,
                         "ops": 0.000
                     }
                 }
             },
-            "Colorado Rockies":
-            {
-                "2001":
-                {
-                    "1b":
-                    {
+            "Colorado Rockies": {
+                "2001": {
+                    "1b": {
                         "games": 8,
                         "pa": 25,
                         "ops": 1.223
                     },
-                    "3b":
-                    {
+                    "3b": {
                         "games": 23,
                         "pa": 90,
                         "ops": 0.644
                     },
-                    "lf":
-                    {
+                    "lf": {
                         "games": 19,
                         "pa": 55,
                         "ops": 1.006
                     },
-                    "rf":
-                    {
+                    "rf": {
                         "games": 1,
                         "pa": 3,
                         "ops": 0.667
                     },
-                    "dh":
-                    {
+                    "dh": {
                         "games": 1,
                         "pa": 4,
                         "ops": 0.500
                     },
-                    "ph":
-                    {
+                    "ph": {
                         "games": 69,
                         "pa": 69,
                         "ops": 0.843
                     }
                 },
-                "2003":
-                {
-                    "1b":
-                    {
+                "2003": {
+                    "1b": {
                         "games": 6,
                         "pa": 6,
                         "ops": 1.900
                     },
-                    "3b":
-                    {
+                    "3b": {
                         "games": 29,
                         "pa": 110,
                         "ops": 0.570
                     },
-                    "rf":
-                    {
+                    "rf": {
                         "games": 2,
                         "pa": 3,
                         "ops": 0.333
                     },
-                    "ph":
-                    {
+                    "ph": {
                         "games": 78,
                         "pa": 78,
                         "ops": 0.990
@@ -106,10 +85,10 @@
             }
         }
     },
-    "17193" : {
+    "17193": {
         "first_name": "Mike",
         "last_name": "Caruso",
-        "team":{
+        "team": {
             "Chicago White Sox": {
                 "1998": {
                     "ss": {
@@ -121,7 +100,7 @@
                         "games": 1,
                         "pa": 1,
                         "ops": 0.000
-                    }    
+                    }
                 },
                 "1999": {
                     "ss": {
@@ -157,111 +136,89 @@
             }
         }
     },
-    "17422":
-    {
+    "17422": {
         "first_name": "Jeff",
         "last_name": "Liefer",
-        "team":
-        {
-            "Chicago White Sox":
-            {
-                "1999":
-                {
-                    "1b":
-                    {
+        "team": {
+            "Chicago White Sox": {
+                "1999": {
+                    "1b": {
                         "games": 14,
                         "pa": 47,
                         "ops": 0.484
                     },
-                    "lf":
-                    {
+                    "lf": {
                         "games": 13,
                         "pa": 43,
                         "ops": 0.726
                     },
-                    "rf":
-                    {
+                    "rf": {
                         "games": 2,
                         "pa": 6,
                         "ops": 0.333
                     },
-                    "dh":
-                    {
+                    "dh": {
                         "games": 7,
                         "pa": 18,
                         "ops": 0.844
                     },
-                    "ph":
-                    {
+                    "ph": {
                         "games": 9,
                         "pa": 9,
                         "ops": 0.556
                     }
                 },
-                "2001":
-                {
-                    "1b":
-                    {
+                "2001": {
+                    "1b": {
                         "games": 11,
                         "pa": 42,
                         "ops": 1.026
                     },
-                    "3b":
-                    {
+                    "3b": {
                         "games": 14,
                         "pa": 53,
                         "ops": 0.674
                     },
-                    "lf":
-                    {
+                    "lf": {
                         "games": 34,
                         "pa": 127,
                         "ops": 0.942
                     },
-                    "rf":
-                    {
+                    "rf": {
                         "games": 4,
                         "pa": 11,
                         "ops": 0.873
                     },
-                    "dh":
-                    {
+                    "dh": {
                         "games": 10,
                         "pa": 37,
                         "ops": 0.531
                     },
-                    "ph":
-                    {
+                    "ph": {
                         "games": 10,
                         "pa": 10,
                         "ops": 0.300
                     }
                 }
             },
-            "Montreal Expos":
-            {
-                "2003":
-                {
-                    "1b":
-                    {
+            "Montreal Expos": {
+                "2003": {
+                    "1b": {
                         "games": 21,
                         "pa": 77,
                         "ops": 0.550
                     },
-                    "3b":
-                    {
+                    "3b": {
                         "games": 6,
                         "pa": 19,
                         "ops": 0.505
                     },
-                    "dh":
-                    {
+                    "dh": {
                         "games": 2,
                         "pa": 9,
                         "ops": 0.472
                     },
-                    "ph":
-                    {
+                    "ph": {
                         "games": 15,
                         "pa": 15,
                         "ops": 0.533

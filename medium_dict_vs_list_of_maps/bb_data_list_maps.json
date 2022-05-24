@@ -3,16 +3,13 @@
         "id": 16959,
         "first_name": "Greg",
         "last_name": "Norton",
-        "teams":
-        [
+        "teams": [
             {
                 "team": "Chicago White Sox",
-                "years":
-                [
+                "years": [
                     {
                         "year": 1996,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "3b",
                                 "games": 2,
@@ -35,8 +32,7 @@
                     },
                     {
                         "year": 1999,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "1b",
                                 "games": 14,
@@ -67,12 +63,10 @@
             },
             {
                 "team": "Colorado Rockies",
-                "years":
-                [
+                "years": [
                     {
                         "year": 2001,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "1b",
                                 "games": 8,
@@ -113,8 +107,7 @@
                     },
                     {
                         "year": 2003,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "1b",
                                 "games": 6,
@@ -149,16 +142,13 @@
         "id": 17193,
         "first_name": "Mike",
         "last_name": "Caruso",
-        "teams":
-        [
+        "teams": [
             {
                 "team": "Chicago White Sox",
-                "years":
-                [
+                "years": [
                     {
                         "year": 1998,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "ss",
                                 "games": 130,
@@ -175,8 +165,7 @@
                     },
                     {
                         "year": 1999,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "ss",
                                 "games": 130,
@@ -195,12 +184,10 @@
             },
             {
                 "team": "Kansas City Royals",
-                "years":
-                [
+                "years": [
                     {
                         "year": 2002,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "2bb",
                                 "games": 4,
@@ -229,15 +216,13 @@
         "id": "17422",
         "first_name": "Jeff",
         "last_name": "Liefer",
-        "teams":
-        [
+        "teams": [
             {
                 "team": "Chicago White Sox",
                 "years": [
                     {
                         "year": 1999,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "1b",
                                 "games": 14,
@@ -272,8 +257,7 @@
                     },
                     {
                         "year": 2001,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "1b",
                                 "games": 11,
@@ -319,8 +303,7 @@
                 "years": [
                     {
                         "year": 2003,
-                        "positions":
-                        [
+                        "positions": [
                             {
                                 "position": "1b",
                                 "games": 21,
