@@ -1,0 +1,337 @@
+[
+    {
+        "id": 16959,
+        "first_name": "Greg",
+        "last_name": "Norton",
+        "teams": [
+            {
+                "team": "Chicago White Sox",
+                "years": [
+                    {
+                        "year": 1996,
+                        "positions": [
+                            {
+                                "position": "3b",
+                                "games": 2,
+                                "pa": 10,
+                                "ops": 0.800
+                            },
+                            {
+                                "position": "ss",
+                                "games": 5,
+                                "pa": 13,
+                                "ops": 0.762
+                            },
+                            {
+                                "position": "ph",
+                                "games": 3,
+                                "pa": 3,
+                                "ops": 0.667
+                            }
+                        ]
+                    },
+                    {
+                        "year": 1999,
+                        "positions": [
+                            {
+                                "position": "1b",
+                                "games": 14,
+                                "pa": 38,
+                                "ops": 1.074
+                            },
+                            {
+                                "position": "3b",
+                                "games": 115,
+                                "pa": 462,
+                                "ops": 0.773
+                            },
+                            {
+                                "position": "dh",
+                                "games": 1,
+                                "pa": 4,
+                                "ops": 0.500
+                            },
+                            {
+                                "position": "ph",
+                                "games": 6,
+                                "pa": 6,
+                                "ops": 0.000
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": "Colorado Rockies",
+                "years": [
+                    {
+                        "year": 2001,
+                        "positions": [
+                            {
+                                "position": "1b",
+                                "games": 8,
+                                "pa": 25,
+                                "ops": 1.223
+                            },
+                            {
+                                "position": "3b",
+                                "games": 23,
+                                "pa": 90,
+                                "ops": 0.644
+                            },
+                            {
+                                "position": "lf",
+                                "games": 19,
+                                "pa": 55,
+                                "ops": 1.006
+                            },
+                            {
+                                "position": "rf",
+                                "games": 1,
+                                "pa": 3,
+                                "ops": 0.667
+                            },
+                            {
+                                "position": "dh",
+                                "games": 1,
+                                "pa": 4,
+                                "ops": 0.500
+                            },
+                            {
+                                "position": "ph",
+                                "games": 69,
+                                "pa": 69,
+                                "ops": 0.843
+                            }
+                        ]
+                    },
+                    {
+                        "year": 2003,
+                        "positions": [
+                            {
+                                "position": "1b",
+                                "games": 6,
+                                "pa": 6,
+                                "ops": 1.900
+                            },
+                            {
+                                "position": "3b",
+                                "games": 29,
+                                "pa": 110,
+                                "ops": 0.570
+                            },
+                            {
+                                "position": "rf",
+                                "games": 2,
+                                "pa": 3,
+                                "ops": 0.333
+                            },
+                            {
+                                "position": "ph",
+                                "games": 78,
+                                "pa": 78,
+                                "ops": 0.990
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17193,
+        "first_name": "Mike",
+        "last_name": "Caruso",
+        "teams": [
+            {
+                "team": "Chicago White Sox",
+                "years": [
+                    {
+                        "year": 1998,
+                        "positions": [
+                            {
+                                "position": "ss",
+                                "games": 130,
+                                "pa": 554,
+                                "ops": 0.724
+                            },
+                            {
+                                "position": "ph",
+                                "games": 1,
+                                "pa": 1,
+                                "ops": 0.000
+                            }
+                        ]
+                    },
+                    {
+                        "year": 1999,
+                        "positions": [
+                            {
+                                "position": "ss",
+                                "games": 130,
+                                "pa": 561,
+                                "ops": 0.573
+                            },
+                            {
+                                "position": "ph",
+                                "games": 3,
+                                "pa": 3,
+                                "ops": 1.333
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": "Kansas City Royals",
+                "years": [
+                    {
+                        "year": 2002,
+                        "positions": [
+                            {
+                                "position": "2bb",
+                                "games": 4,
+                                "pa": 9,
+                                "ops": 0.222
+                            },
+                            {
+                                "position": "3b",
+                                "games": 1,
+                                "pa": 1,
+                                "ops": 0.000
+                            },
+                            {
+                                "position": "ss",
+                                "games": 5,
+                                "pa": 11,
+                                "ops": 0.282
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "17422",
+        "first_name": "Jeff",
+        "last_name": "Liefer",
+        "teams": [
+            {
+                "team": "Chicago White Sox",
+                "years": [
+                    {
+                        "year": 1999,
+                        "positions": [
+                            {
+                                "position": "1b",
+                                "games": 14,
+                                "pa": 47,
+                                "ops": 0.484
+                            },
+                            {
+                                "position": "lf",
+                                "games": 13,
+                                "pa": 43,
+                                "ops": 0.726
+                            },
+                            {
+                                "position": "rf",
+                                "games": 2,
+                                "pa": 6,
+                                "ops": 0.333
+                            },
+                            {
+                                "position": "dh",
+                                "games": 7,
+                                "pa": 18,
+                                "ops": 0.844
+                            },
+                            {
+                                "position": "ph",
+                                "games": 9,
+                                "pa": 9,
+                                "ops": 0.556
+                            }
+                        ]
+                    },
+                    {
+                        "year": 2001,
+                        "positions": [
+                            {
+                                "position": "1b",
+                                "games": 11,
+                                "pa": 42,
+                                "ops": 1.026
+                            },
+                            {
+                                "position": "3b",
+                                "games": 14,
+                                "pa": 53,
+                                "ops": 0.674
+                            },
+                            {
+                                "position": "lf",
+                                "games": 34,
+                                "pa": 127,
+                                "ops": 0.942
+                            },
+                            {
+                                "position": "rf",
+                                "games": 4,
+                                "pa": 11,
+                                "ops": 0.873
+                            },
+                            {
+                                "position": "dh",
+                                "games": 10,
+                                "pa": 37,
+                                "ops": 0.531
+                            },
+                            {
+                                "position": "ph",
+                                "games": 10,
+                                "pa": 10,
+                                "ops": 0.300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "team": "Montreal Expos",
+                "years": [
+                    {
+                        "year": 2003,
+                        "positions": [
+                            {
+                                "position": "1b",
+                                "games": 21,
+                                "pa": 77,
+                                "ops": 0.550
+                            },
+                            {
+                                "position": "3b",
+                                "games": 6,
+                                "pa": 19,
+                                "ops": 0.505
+                            },
+                            {
+                                "position": "dh",
+                                "games": 2,
+                                "pa": 9,
+                                "ops": 0.472
+                            },
+                            {
+                                "position": "ph",
+                                "games": 15,
+                                "pa": 15,
+                                "ops": 0.533
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
